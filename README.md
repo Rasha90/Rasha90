@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on IT skills improvement.
+- 🔭 I’m currently working on IT skills improvement like programming, HTML5,CSS3 and Java.
 - 🌱 I’m currently learning node with ComIT
 - 👯 I’m looking to collaborate on further projects in web development.
 - 🤔 I’m looking for help with any basic issues in HTML5.
